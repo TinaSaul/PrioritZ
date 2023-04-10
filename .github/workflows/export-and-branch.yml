@@ -40,7 +40,7 @@ on:
 
        default: solutions/ 
        
-       jobs: 
+jobs: 
 
   export-from-dev: 
 
